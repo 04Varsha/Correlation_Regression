@@ -57,6 +57,8 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ~~~
+
+
 # Output :
 
 ![241651045-89247eb3-4e07-4de3-bbf2-634fd818d5e1](https://github.com/04Varsha/Correlation_Regression/assets/149035374/408ff6a5-7a3d-42c8-811f-19ea1a7250ea)
